@@ -1,70 +1,194 @@
-# Alexander Sukhryn
+# Alexandr Sukhryn
 
-**Chief Technology Officer (CTO) / Senior Python Engineer / Technical Lead**  
-[LinkedIn](https://www.linkedin.com/in/alexander-sukhryn-33bb2114b/) | [GitHub](https://github.com/alexsukhrin)
-
----
-
-## Summary
-
-Experienced technical leader and backend engineer with a proven track record in designing scalable architectures, optimizing development workflows, and leading teams to deliver high-performance solutions. Adept in Python, Go, and Clojure, with a strong background in microservices, DevOps, and database design.
+**Lead Senior Python Software Engineer | ML/AI Engineer | Tech Lead | Backend Architect**  
+Kyiv, Ukraine  
+📧 Email: alexandrvirtual@gmail.com | 📞 Phone: +38 097 563-92-54  
+🔗 [GitHub](https://github.com/alexandrsukhryn) | [LinkedIn](https://linkedin.com/in/alexandrsukhryn)
 
 ---
 
-## Experience
+## 🧠 Summary
 
-### Temabit (Fozzy Group), Kyiv  
-**Team/Tech Lead — Senior Python Software Engineer**  
-*September 2020 – Present*
-
-- Led a team of developers in backend development for mobile and web apps using Python, Go, and Clojure.
-- Architected and implemented microservices and complex databases (MSSQL, Redis).
-- Utilized FastAPI, RabbitMQ, Docker, Git, and Asyncio; applied OOP, TDD, functional programming.
-- Oversaw technical decision-making and process improvement.
-
-### Zakaz UA, Kyiv  
-**Senior Python Software Engineer**  
-*March 2020 – September 2020*
-
-- Developed backend systems with Python 2.7/3.8 and Scala 2.
-- Designed databases with PostgreSQL and CouchDB.
-- Worked with Django, Kafka, Redis, Celery, and enforced TDD practices.
-
-### My UA LLC, Kyiv  
-**Senior Python Software Engineer**  
-*December 2018 – March 2020*
-
-- Built backend services with Python, Aiohttp, RabbitMQ, Redis, Elasticsearch.
-- Designed application logic and database schemas for scalable solutions.
-
-### Kmi Learning, Kyiv  
-**Middle Python Full Stack Developer**  
-*August 2017 – December 2018*
-
-- Developed modules using Python (Django), AngularJS, and microservices in Go.
-
-### Go Friends, Kyiv  
-**Junior Python/Django Developer**  
-*March 2016 – August 2017*
-
-- Developed REST APIs, implemented Celery tasks, and integrated Redis and PostgreSQL.
-
-### Internet Provider, Kyiv  
-**DevOps Engineer**  
-*August 2010 – December 2016*
-
-- Automated server management with Python/Bash scripts and Zabbix.
-- Provided Level 2 technical support and server administration.
+Experienced backend engineer and ML/AI specialist with 10+ years in software development, specializing in Python-based backend systems, microservices, machine learning platforms, and data science solutions.  
+Proven expertise in building scalable ML infrastructure, NLP systems, and computer vision applications with $200K+ annual cost savings.  
+Strong knowledge of Clojure, MLOps, and active contributor to open source projects.  
+Proven leadership and architecture design skills, seeking a CTO, ML Engineering Lead, or Tech Lead role to leverage technical and managerial expertise.
 
 ---
 
-## Key Achievements
+## ⚙️ Skills
 
-- Led successful migration to microservices at Temabit, improving stability and performance by 30%.
-- Designed and implemented high-load database architectures, reducing query times by 25%.
-- Reduced production bugs by 40% through TDD and CI/CD adoption.
-- Introduced Go for performance-critical microservices, doubling backend speed.
-- Contributed to machine learning projects using Keras and TensorFlow, boosting automation and analytics.
-- Enhanced server reliability as a DevOps engineer via monitoring and automation.
+### Programming & Backend
+- **Languages**: Python (expert), SQL (advanced), Go (mid), Clojure (advanced), Java, Scala, C (basic), Bash  
+- **Frameworks**: Django, FastAPI, Flask, Aiohttp, Asyncio  
+- **Databases**: PostgreSQL, MSSQL, MongoDB, CouchDB, Redis, Elasticsearch  
+- **Messaging**: RabbitMQ, Kafka, Celery  
+
+### Machine Learning & AI
+- **ML Frameworks**: TensorFlow, PyTorch, Keras, Scikit-learn, YOLO v8  
+- **Data Science**: Pandas, NumPy, Polars, Data Analysis, Mathematics, Statistics  
+- **NLP & LLM**: LangChain, Large Language Models, NLP, Transformers  
+- **Computer Vision**: OpenCV, Image Processing, Object Detection, CNN  
+- **Time Series**: Forecasting, ARIMA, LSTM, Demand Prediction  
+
+### MLOps & Cloud
+- **MLOps**: Kubeflow, MLflow, Apache Airflow, Model Deployment, CI/CD for ML  
+- **Cloud**: AWS (SageMaker, EC2, S3, Lambda, EKS, CloudWatch)  
+- **Containerization**: Docker, Kubernetes, Infrastructure as Code  
+- **Monitoring**: Model drift detection, A/B Testing, Performance monitoring  
+
+### Data & Visualization
+- **Data Processing**: ETL pipelines, Big Data, Statistical modeling  
+- **Visualization**: PowerBI, Matplotlib, Seaborn, BI dashboards  
+- **Tools**: Git, Docker, Postman, MS Office, Jupyter Notebooks  
+
+### Architecture & Leadership
+- **Architecture**: Microservices, OOP, Functional Programming, Distributed Systems  
+- **DevOps**: Docker, Linux, Git, Docker Compose, CI/CD  
+- **Testing**: pytest, unittest, TDD, Automated Testing  
+- **Leadership**: Tech management, Team development, Cross-functional collaboration  
 
 ---
+
+## 🧪 Machine Learning & AI Experience
+
+### Future Store ML Platform (2023–2024) — *Senior ML Engineer | Technical Lead*
+- Built ML platform for smart retail (CV, forecasting, staff optimization)
+- YOLOv8 food detection (94% accuracy)
+- Time series models → 25% efficiency gains, $200K+ savings
+- Task automation & real-time monitoring
+- **Tech**: Python, TensorFlow, YOLOv8, AWS SageMaker, Kubeflow, Airflow, Docker, K8s
+
+### Food Recognition & Analytics System (2022–2023) — *Lead ML Engineer*
+- YOLOv8-based CV app for dining automation
+- Real-time processing (<100ms latency)
+- Analytics dashboard for dietary insights
+- Cut manual work by 60%, improved planning by 35%
+- **Tech**: YOLOv8, OpenCV, Python, TensorFlow, AWS, Docker, MLflow
+
+### NLP & LLM Analytics Platform (2023–2024) — *Senior Data Scientist | ML Engineer*
+- Built LangChain-based doc processing (96% accuracy)
+- Real-time sentiment analysis pipelines
+- PowerBI dashboards for exec BI
+- 70% manual review time reduction
+- **Tech**: LangChain, Transformers, NLP, Python, PowerBI, SQL, Pandas
+
+### MLOps Infrastructure & Deployment (2022–2024) — *MLOps Engineer | Platform Architect*
+- Designed CI/CD ML platform with zero-downtime updates
+- Monitoring: MLflow + drift detection
+- K8s on AWS, full observability & auto-scaling
+- **Tech**: Kubeflow, MLflow, Airflow, K8s, Docker, AWS, Terraform
+
+### Advanced Data Science Suite (2022–2024) — *Senior Data Scientist*
+- Processed 10TB+ using Pandas, NumPy, Polars
+- 20+ models with 92% avg. accuracy
+- Custom forecasting algorithms
+- Automated reports → 60% faster analysis
+- **Tech**: Python, Pandas, Scikit-learn, Keras, Polars, PowerBI
+
+---
+
+## 💼 Work Experience
+
+### **Temabit (Fozzy Group)** — *Team/Tech Lead – Senior Python Software Engineer*  
+📍 *Sep 2020 – Present*
+- Backend in Python, Go, Clojure with microservices
+- DB & architecture design (MSSQL, Redis, PostgreSQL)
+- ML integration: TensorFlow, Keras
+- Stack: FastAPI, RabbitMQ, Docker, Asyncio, Git
+- Team lead: 8+ engineers, CI/CD, code standards
+
+### **Zakaz UA** — *Senior Python Software Engineer*  
+📍 *Mar 2020 – Sep 2020*
+- Python 2.7/3.8, Scala backend for e-commerce
+- PostgreSQL, CouchDB, Django, Kafka, Redis
+- Recommender systems with collaborative filtering
+
+### **My UA LLC** — *Senior Python Software Engineer*  
+📍 *Dec 2018 – Mar 2020*
+- Backend: Python, Aiohttp, RabbitMQ, Redis, Elasticsearch
+- App architecture & DB design
+- ML for search optimization
+
+### **Kmi Learning** — *Middle Python Full Stack Developer*  
+📍 *Aug 2017 – Dec 2018*
+- Backend in Django, frontend in AngularJS
+- Microservices in Golang
+- Analytics for learning platform
+
+### **Go Friends** — *Junior Python/Django Developer*  
+📍 *Mar 2016 – Aug 2017*
+- REST API dev with Django, Celery, unit tests
+- Code quality & test coverage improvements
+
+### **Internet Provider** — *DevOps Engineer*  
+📍 *Aug 2010 – Dec 2016*
+- Zabbix monitoring system admin
+- Python/Bash scripting for automation
+- Server performance optimization
+
+---
+
+## 🏆 Key Achievements
+
+### Technical Leadership
+- Migrated to microservices → +30% performance
+- High-load DB design → -25% query time
+- TDD + CI/CD → -40% production bugs
+- Introduced Go → 2x perf. in key services
+
+### Machine Learning & AI
+- ML platform → $200K+ savings
+- 94% accuracy in CV for food recognition
+- NLP system processed 100K+ docs at 96%
+- 20+ models with 92% accuracy
+- 60–70% manual task reduction via ML
+
+### Data Science & Analytics
+- 10TB+ big data processing
+- Real-time analytics <100ms latency
+- BI dashboards → informed decision-making
+- +25–40% business efficiency gains
+
+### Infrastructure & DevOps
+- Zero-downtime deployments with observability
+- Scalable ML infra on AWS
+- Full MLOps pipelines: deploy, monitor, rollback
+- Open source contributor & ML best practices advocate
+
+---
+
+## 🎓 Education
+
+**National University of Water Management and Environmental Engineering**, Rivne  
+*Bachelor’s in Hydraulic Engineering and Water Technology*  
+📅 2005 – 2009
+
+---
+
+## 📚 Continuous Learning & Certifications
+
+- **Machine Learning Specialization** – Advanced ML, Deep Learning  
+- **AWS Solutions Architecture** – ML on Cloud  
+- **Data Science & Analytics** – Big Data, Statistics  
+- **MLOps & Model Deployment** – Production ML Systems
+
+---
+
+## 🌍 Languages
+
+- Ukrainian – Native  
+- Russian – Native  
+- English – A2 (learning, read tech docs confidently)
+
+---
+
+## 🚀 Key Technologies Summary
+
+**Machine Learning**: TensorFlow, PyTorch, Keras, Scikit-learn, YOLOv8  
+**Data Science**: Pandas, NumPy, Polars, Statistics, PowerBI, SQL  
+**NLP & LLM**: LangChain, Transformers, LLMs, Sentiment Analysis  
+**MLOps**: Kubeflow, MLflow, Airflow, Docker, Kubernetes, Git  
+**Cloud & Infra**: AWS (SageMaker, EC2, S3, Lambda, EKS), CloudWatch  
+**Backend**: Python, Django, FastAPI, PostgreSQL, Redis, RabbitMQ  
+**Tools**: Git, Docker, Postman, MS Office, Jupyter, CI/CD, Linux
